@@ -1,0 +1,12 @@
+Java HotSpot(TM) 64-Bit Server VM warning: -XX:+UseLargePages not supported in this VM
+CompileCommand: exclude com/github/benmanes/caffeine/cache/BoundedLocalCache.put bool exclude = true
+WARNING: A command line option has enabled the Security Manager
+WARNING: The Security Manager is deprecated and will be removed in a future release
+2024-04-12 21:43:17.971 INFO  (main) [c: s: r: x: t:] o.e.j.s.Server jetty-10.0.19; built: 2023-12-15T20:38:32.477Z; git: 8492d1c78f122bb30cce20aecfa07e7283facd47; jvm 22+36-2370
+2024-04-12 21:43:18.318 WARN  (main) [c: s: r: x: t:] o.e.j.u.DeprecationWarning Using @Deprecated Class org.eclipse.jetty.servlet.listener.ELContextCleaner
+2024-04-12 21:43:18.334 INFO  (main) [c: s: r: x: t:] o.a.s.s.CoreContainerProvider Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2024-04-12 21:43:18.339 INFO  (main) [c: s: r: x: t:] o.a.s.s.CoreContainerProvider  ___      _       Welcome to Apache Solr™ version 9.5.0
+2024-04-12 21:43:18.339 INFO  (main) [c: s: r: x: t:] o.a.s.s.CoreContainerProvider / __| ___| |_ _   Starting in standalone mode on port 8983
+2024-04-12 21:43:18.339 INFO  (main) [c: s: r: x: t:] o.a.s.s.CoreContainerProvider \__ \/ _ \ | '_|  Install dir: /Users/yiwen/Library/CloudStorage/GoogleDrive-yz167@rice.edu/My Drive/work/study/comp_631/comp631/solr-9.5.0
+2024-04-12 21:43:18.339 INFO  (main) [c: s: r: x: t:] o.a.s.s.CoreContainerProvider |___/\___/_|_|    Start time: 2024-04-12T21:43:18.339589Z
+2024-04-12 21:43:18.341 INFO  (main) [c: s: r: x: t:] o.a.s.s.CoreContainerProvider Solr started with "-XX:+CrashOnOutOfMemoryError" that will crash on any OutOfMemoryError exception. The cause of the OOME will be logged in the crash file at the following path: /Users/yiwen/Library/CloudStorage/GoogleDrive-yz167@rice.edu/My Drive/work/study/comp_631/comp631/solr-9.5.0/server/logs/jvm_crash_48282.log
